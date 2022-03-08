@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\tango_with_django_project"
+		}
+	],
+	"settings": {}
+}
